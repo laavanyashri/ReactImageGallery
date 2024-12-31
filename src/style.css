@@ -1,0 +1,33 @@
+.container{
+
+border-color: black;
+border: 7px solid black;
+width:80vw;
+margin:auto; 
+
+}
+
+.imagecontainer
+{
+   
+    display: flex;
+    justify-content: space-between;
+   flex-direction: row;
+   flex-wrap: wrap;
+   gap:10px;
+}
+
+
+.imagecontainer {
+padding: 20px;
+}
+
+.imagecontainer img
+{
+    border:2px solid black;
+}
+
+.header
+{
+    text-align: center;
+}
